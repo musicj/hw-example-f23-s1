@@ -1,7 +1,8 @@
 # Team Name
 Tag Line
 
-##Team Member Name 1
+## Team Member Name 1
+
 **Hobies:**
 **Fav Music:**
 1. I always wanna die
